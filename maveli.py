@@ -13,6 +13,7 @@ def chat():
             print("Onam nallathalle...aghoshikuka :)")
         else:
             print("Ayyo!! Ithine kurich enik ariyukilla....kshamikkanam!!")
+            break
 while True:
     print("         MAVELI 2.0 CHAT BOT")
     print("1. About Myself")
